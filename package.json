@@ -1,0 +1,45 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/datetimepicker": "^3.5.2",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/netinfo": "5.9.6",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "apisauce": "^2.0.0",
+    "axios": "^0.21.0",
+    "cuid": "^2.1.8",
+    "date-fns": "^2.16.1",
+    "expo": "^51.0.21",
+    "expo-constants": "^16.0.2",
+    "expo-status-bar": "~1.0.2",
+    "formik": "^2.1.4",
+    "jwt-decode": "^3.1.2",
+    "lottie-react-native": "~2.6.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-modal-datetime-picker": "^9.1.0",
+    "react-native-paper": "^4.4.0",
+    "react-native-reanimated": "^3.14.0",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-swipeable": "^0.6.0",
+    "react-native-web": "^0.19.12",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
