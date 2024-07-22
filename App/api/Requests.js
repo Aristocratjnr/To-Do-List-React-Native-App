@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const URL =''
+const URL ='http://practice.mobile.kreosoft.ru/api'
 export const getCategories = async (api_token) =>{
     try {
         const config ={
