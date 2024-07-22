@@ -8,7 +8,7 @@ import AppNavigation from './App/Navigation/AppNavigation';
 import AuthContext from './App/AuthContext/Context';
 import AppActivityIndictor from './App/Components/AppActivityIndicator/AppActivityIndicator';
 import {useNetInfo} from "@react-native-community/netinfo";
-import OfflineBar from './App/Components/OfflineBar/OfflineBar'
+import OfflineBar from './App/Components/OfflineBar/OfflineBar';
 
 
 export default function App() {
