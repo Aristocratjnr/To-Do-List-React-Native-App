@@ -30,7 +30,7 @@ export default function App() {
     }
   };
   useEffect(() => {
-    axios.defaults.baseURL = 'http://practice.mobile.kreosoft.ru/api';
+    axios.defaults.baseURL = '';
     getUserData();
   }, []);
 
